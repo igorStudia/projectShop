@@ -15,3 +15,4 @@ C:\Users\ipusc\Desktop\projectShop\Shop.DataAccess\obj\Debug\net8.0\refint\Shop.
 C:\Users\ipusc\Desktop\projectShop\Shop.DataAccess\obj\Debug\net8.0\Shop.DataAccess.pdb
 C:\Users\ipusc\Desktop\projectShop\Shop.DataAccess\obj\Debug\net8.0\Shop.DataAccess.genruntimeconfig.cache
 C:\Users\ipusc\Desktop\projectShop\Shop.DataAccess\obj\Debug\net8.0\ref\Shop.DataAccess.dll
+C:\Users\ipusc\Desktop\projectShop\Shop.DataAccess\obj\Debug\net8.0\Shop.DataAccess.sourcelink.json
